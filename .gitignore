@@ -1,0 +1,6 @@
+.vscode
+data/rasters/
+data/test/
+data/.ipynb_checkpoints/
+tableau/
+data_treatment/utils/__pycache__
